@@ -28,6 +28,9 @@
                     {{ partial "social" . }}
                 {{ end }}
             </ul>
+            <ul class="actions">
+                <li><a href="/about/" class="button">Learn More</a></li>
+            </ul>
         </section>
 
     <!-- Posts List -->
@@ -111,18 +114,6 @@
             </ul>
         </section>
     {{ end }}
-
-    <!-- About -->
-        {{ with .Site.Params.intro.about }}
-        <section class="blurb">
-            <h2>About</h2>
-            <p>{{ . }}</p>
-
-            <ul class="actions">
-                <li><a href="/about/" class="button">Learn More</a></li>
-            </ul>
-        </section>
-        {{ end }}
 
     <!-- Footer -->
         <section id="footer">

@@ -4,7 +4,7 @@ title = "Marcin Biegała about code"
 theme = "hugo-future-imperfect"
 description = "Blog about coding, IT architecture and laziness"
 preserveTaxonomyNames = true
-paginate = 3
+paginate = 5
 disqusShortname = "blogbiegalanet"
 googleAnalytics = ""
 
@@ -44,7 +44,7 @@ googleAnalytics = ""
 [params.intro]
     header    = "Marcin Biegała"
 
-    paragraph = ""
+    paragraph = "Dev, motorcyclist, dreamer and coffee lover."
 
     about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
 
