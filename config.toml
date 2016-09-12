@@ -10,7 +10,7 @@ googleAnalytics = ""
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+    description          = "Dev, motorcyclist, dreamer and coffee lover."
     # This will appear on the top left of the navigation bar
     navbarTitle          = "Marcin Biegała"
     # Social media buttons that appear on the sidebar
@@ -70,7 +70,6 @@ googleAnalytics = ""
 [[menu.main]]
     name = "Blog"
     url = "/blog"
-    identifier = "fa fa-newspaper-o"
     weight = 1
 
 [[menu.main]]
