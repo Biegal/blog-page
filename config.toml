@@ -39,6 +39,8 @@ googleAnalytics = ""
     #customCSS            = ["/css/main.min.css"]
     #customJS             = ["/js/main.min.js"]
 
+    additionalCss = ["css/additional.css"]
+
 # parms.intro will appear on the sidebar
 # This is optional, but it's suggested to use
 [params.intro]
@@ -105,10 +107,10 @@ googleAnalytics = ""
     xing            = ""
     linkedin        = "marcinbiegala"
     slideshare      = ""
-    stackoverflow   = "1340855"
+    #stackoverflow   = "1340855"
     reddit          = ""
     pinterest       = ""
-    googleplus      = ""
+    googleplus      = "MarcinBiegała"
     facebook        = ""
     facebook_admin  = ""
     twitter_domain  = ""

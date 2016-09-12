@@ -1,38 +1,42 @@
 ---
-title: Kim jest Marcin Biegała
+title: Who is Marcin Biegała
 author: Marcin Biegała
 date: 2014-02-09
 
 ---
-&nbsp;
+Dev, motorcyclist, dreamer and coffee lover.  
+Humble servant of [dev@LDZ meetup](http://www.meetup.com/dev-LDZ/)  
+HappyDeveloper at [HappyTeam.io](https://happyteam.io)
 
-Na początek parę &#8216;łatek&#8217;:
 
-  * Programista (HappyDeveloper!)
-  * Microsoft Certified Professional (70-511)
-  * Certyfikowany ScrumMaster
-  * Entuzjasta nowych technologii
-  * SOLIDny deweloper
+Besides that:  
+  * Microsoft Certified Professional (70-511)  
+  * Certified ScrumMaster  
+  * Technology enthusiast  
+  * SOLID developer
 
-&nbsp;
+  
+  &nbsp;  
+  
 
-Odnośniki do portali/profili:
-
-<ul class='bean_social_icons'>
+<ul class='social-icons'>
   <a title='Twitter' href='https://twitter.com/Biegal'>
-  
-  <li class='bean_social_icon bean_social-twitter'>
-  </li></a>
+    <li class='fa fa-twitter'></li>
+  </a>
+
   <a title='LinkedIn' href='https://pl.linkedin.com/in/marcinbiegala'>
-  
-  <li class='bean_social_icon bean_social-linkedin'>
-  </li></a>
+    <li class='fa fa-linkedin'></li>
+  </a>
+
   <a title='Google Plus' href='https://plus.google.com/u/0/+MarcinBiegała?rel=author'>
+    <li class='fa fa-google-plus'></li>
+  </a>
   
-  <li class='bean_social_icon bean_social-googleplus'>
-  </li></a>
   <a title='Github' href='https://github.com/Biegal'>
-  
-  <li class='bean_social_icon bean_social-github'>
-  </li></a>
+    <li class='fa fa-github'></li>
+  </a>
+
+  <a title='Mail' href='mailto:marcin@biegala.net'>
+    <li class='fa fa-envelope'></li>
+  </a>
 </ul>
