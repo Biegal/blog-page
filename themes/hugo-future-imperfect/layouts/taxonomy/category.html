@@ -4,6 +4,7 @@
     {{ partial "navbar" . }}
     <!-- Main -->
     <div id="main">
+        <article>
         <h1>{{ .Title }}</h1>
         {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
         {{ range $paginator.Pages }}
@@ -11,6 +12,7 @@
         {{ end }}
 
         {{ partial "pagination" . }}
+        </article>
     </div>
     {{ partial "sidebar" . }}
 {{ partial "footer" . }}
