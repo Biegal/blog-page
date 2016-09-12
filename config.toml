@@ -6,7 +6,7 @@ description = "Blog about coding, IT architecture and laziness"
 preserveTaxonomyNames = true
 paginate = 5
 disqusShortname = "blogbiegalanet"
-googleAnalytics = ""
+googleAnalytics = "UA-11867728-3"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
