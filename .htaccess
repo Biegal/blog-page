@@ -1,0 +1,6 @@
+Options +FollowSymlinks
+Options All -Indexes
+
+RewriteEngine on
+RewriteBase /
+RewriteRule ^feed$ /index.xml [L,R=301] 
