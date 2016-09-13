@@ -61,7 +61,7 @@
             <link rel="stylesheet" href="/css/monokai-sublime.css">
         {{ end }}
         {{ range .Site.Params.additionalCss }}
-            <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
+            <link rel="stylesheet" href="/{{ . }}">
         {{ end }}
 
         {{ if ne ($.Scratch.Get "cssFiles") false }}

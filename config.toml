@@ -1,4 +1,4 @@
-baseurl = "http://blog.biegala.net/"
+baseurl = "https://blog.biegala.net/"
 languageCode = "en-us"
 title = "Marcin Biegała about code"
 theme = "hugo-future-imperfect"

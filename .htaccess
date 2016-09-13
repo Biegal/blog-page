@@ -3,4 +3,8 @@ Options All -Indexes
 
 RewriteEngine on
 RewriteBase /
+
+RewriteCond %{HTTPS} !=on
+RewriteRule ^.*$ https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
 RewriteRule ^feed$ /index.xml [L,R=301] 
