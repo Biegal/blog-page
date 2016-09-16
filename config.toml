@@ -35,11 +35,12 @@ googleAnalytics = "UA-11867728-3"
     # customCSS            = ["default", "/path/to/file"]
     # customJS             = ["default", "/path/to/file"]
 
-    # Loading min files for exampleSite
-    #customCSS            = ["/css/main.min.css"]
-    #customJS             = ["/js/main.min.js"]
+    #additionalCss = ["css/additional.css"]
 
-    additionalCss = ["css/additional.css"]
+    # Loading min files
+    customCSS            = ["/css/main.min.css"]
+    customJS             = ["/js/main.min.js"]
+
 
 # parms.intro will appear on the sidebar
 # This is optional, but it's suggested to use
