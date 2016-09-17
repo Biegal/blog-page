@@ -85,6 +85,11 @@ googleAnalytics = "UA-11867728-3"
     url = "/about"
     weight = 3
 
+[[menu.main]]
+    name = "This site on GitHub"
+    url = "https://github.com/Biegal/blog-page"
+    weight = 4
+
 # Insert your username and the icon will apear on the page as long as
 # socialAppearAtTop or socialAppearAtBottom is set to true in the params area
 # The social media icons will appear on the sidebar
