@@ -10,6 +10,7 @@ dsq_thread_id:
   - 3696016521
 categories:
   - NoCode
+  - Event
 tags:
   - Conference
 

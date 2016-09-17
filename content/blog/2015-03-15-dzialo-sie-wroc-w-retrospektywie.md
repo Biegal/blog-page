@@ -10,6 +10,7 @@ dsq_thread_id:
   - 3598052913
 categories:
   - NoCode
+  - Event
 tags:
   - 'C#'
   - Conference
