@@ -15,7 +15,7 @@ type = "post"
 
 I could actually stop right here, as above sums up whole experience pretty good :)
 As you can guess I was attending this years edition of DevDay and it was really really good !
-To foster HappyTeam feedback culture here are few words about this years DevDay :)
+To foster [HappyTeam](https://happyteam.io) feedback culture here are few words about this years DevDay :)
 
 Usually I don't write about venue, food and all that 'technical' stuff, as conference is to get inspired, empowered. But this time I need to say few word about this part too, as moving conference to a cinema was great idea. I havn't watched any conference yet in such comfortable seats! And slides on this huge screen, really great experience.
 
