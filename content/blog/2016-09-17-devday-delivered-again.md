@@ -81,7 +81,7 @@ I guess this was a session with the most number of code snippets from the ones t
 I guess I don't need to introduce Niall Merrigan. He is always well prepared and entertaining. And this time was the same. Niall showed how easy it is to get access to many systems and IoT hardware that is connected to the internet without any security. It was very serious topic presented in fun and entertaining way.
 Really recommend this one.
 
-Sadly that was my last talk on this years DevDay.
+Sadly that was my last talk on this years DevDay.  
 IMHO that was best edition so far. I don't know how #debuggingCrew will rise the bar next year, but I guess they will start to think about it from Monday!
 
 See you all on next edition!
