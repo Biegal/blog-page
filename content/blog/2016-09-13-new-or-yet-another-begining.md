@@ -6,7 +6,7 @@ date: "2016-09-13T00:00:31+02:00"
 description: ""
 title: "New or yet another begining"
 type: "post"
---
+---
 
 For English version scroll below.  
 
