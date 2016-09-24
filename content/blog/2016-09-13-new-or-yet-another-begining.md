@@ -1,15 +1,12 @@
-+++
-author = "Marcin Biegała"
-categories = ["NoCode"]
-date = "2016-09-13T00:00:31+02:00"
-description = ""
-featured = ""
-featuredalt = ""
-featuredpath = ""
-linktitle = ""
-title = "New or yet another begining"
-type = "post"
-+++
+---
+author: "Marcin Biegała"
+categories: 
+  - NoCode
+date: "2016-09-13T00:00:31+02:00"
+description: ""
+title: "New or yet another begining"
+type: "post"
+--
 
 For English version scroll below.  
 

@@ -1,15 +1,13 @@
-+++
-author = "Marcin Biegała"
-categories = ["NoCode","Event"]
-date = "2016-09-17T00:00:31+02:00"
-description = ""
-featured = ""
-featuredalt = ""
-featuredpath = ""
-linktitle = ""
-title = "DevDay Delivered Again"
-type = "post"
-+++
+---
+author: "Marcin Biegała"
+categories:
+  - NoCode
+  - Event
+date: "2016-09-17T00:00:31+02:00"
+description: ""
+title: "DevDay Delivered Again"
+type: "post"
+---
 
 # DevDay delivered again!
 
