@@ -1,0 +1,12 @@
+box: ubuntu
+build:
+  steps:
+    - install-packages:
+        packages: curl
+    - arjen/hugo-build@1.13.1:
+        version: "0.17"
+    - mannau/ftp-deploy:
+        destination: ftp://biegala.net
+        username: wercker_blog@biegala.net
+        password: $PASSWORD
+        subfolder: public
