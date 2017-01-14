@@ -3,7 +3,7 @@ author: "Marcin Biegała"
 categories:
   - Code
   - Tools
-date: "2017-01-23T03:35:31+02:00"
+date: "2017-01-16T03:35:31+02:00"
 description: ""
 title: "Diff so fancy"
 type: "post"
