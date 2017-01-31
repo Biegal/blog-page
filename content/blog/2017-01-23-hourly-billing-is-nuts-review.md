@@ -7,7 +7,6 @@ date: "2017-01-23T03:35:31+02:00"
 description: ""
 title: "'Hourly Billing Is Nuts' review"
 type: "post"
-draft: true
 ---
 <img style="float: right;" src="/img/hourlybillingisnuts.png" alt="Hourly Billing Is Nuts cover">
 
