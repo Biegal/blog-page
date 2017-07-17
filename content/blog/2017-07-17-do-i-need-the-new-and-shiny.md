@@ -6,7 +6,6 @@ date: "2017-07-17T03:35:31+02:00"
 description: ""
 title: "Do I need the new and shiny?"
 type: "post"
-draft: "true"
 ---
 The pace in IT is unbelievable.  
 Sometimes I have a feeling that not reading my RSS/twitter/any other feed over the weekend would make me miss 2 new languages, 4 acronyms, 14 new javascript libraries and a lot of drama.  
