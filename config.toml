@@ -87,8 +87,8 @@ metaDataFormat = "yaml"
     weight = 3
 
 [[menu.main]]
-    name = "This site on GitHub"
-    url = "https://github.com/Biegal/blog-page"
+    name = "Speaking"
+    url = "/speaking"
     weight = 4
 
 # Insert your username and the icon will apear on the page as long as
@@ -117,7 +117,7 @@ metaDataFormat = "yaml"
     #stackoverflow   = "1340855"
     reddit          = ""
     pinterest       = ""
-    googleplus      = "MarcinBiegała"
+    googleplus      = ""
     facebook        = ""
     facebook_admin  = ""
     twitter_domain  = ""

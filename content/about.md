@@ -4,38 +4,18 @@ author: Marcin Biegała
 date: 2014-02-09
 
 ---
-Dev, motorcyclist, dreamer and coffee lover.  
-Humble servant of [dev@LDZ meetup](http://www.meetup.com/dev-LDZ/)  
 
+Dev, motorcyclist, dreamer and coffee lover.
 
-Besides that:  
-  * Microsoft Certified Professional (70-511)  
-  * Certified ScrumMaster  
-  * Technology enthusiast  
-  * SOLID developer
+I'm trying to solve peoples problems with code or by removing it :)\\
+I had a pleasure to work with companies of many sizes, from microscale restaurant services up to big investment banks. 
 
-  
-  &nbsp;  
-  
+I've got into computing believing it's for introverts. That it will be me versus the computer.\\
+Now I know it was a lie.\\
+Computers are just tools, it's human interactions that matter.\\
+That's why I'm trying to share my knowledge (through this blog, speaking on meetups and conferences or conducting workshops) or work on building IT community (by organizing [dev@LDZ meetup](http://www.meetup.com/dev-LDZ/) and helping in various IT events).
 
-<ul class='social-icons'>
-  <a title='Twitter' href='https://twitter.com/Biegal'>
-    <li class='fa fa-twitter'></li>
-  </a>
+Throughout the years I've learned to value solid design and clear code more than newest frameworks and libraries. Learning different languages and paradigms allows me to look at problems from various angles and perspectives.\\
+I believe that removing code is also a feature!
 
-  <a title='LinkedIn' href='https://pl.linkedin.com/in/marcinbiegala'>
-    <li class='fa fa-linkedin'></li>
-  </a>
-
-  <a title='Google Plus' href='https://plus.google.com/u/0/+MarcinBiegała?rel=author'>
-    <li class='fa fa-google-plus'></li>
-  </a>
-  
-  <a title='Github' href='https://github.com/Biegal'>
-    <li class='fa fa-github'></li>
-  </a>
-
-  <a title='Mail' href='mailto:marcin@biegala.net'>
-    <li class='fa fa-envelope'></li>
-  </a>
-</ul>
+If you would like to do something together mail me <a title='Mail' href='mailto:marcin@biegala.net'><span class='fa fa-envelope'></span></a>, drop me a message on LinkedIn <a title='LinkedIn' href='https://pl.linkedin.com/in/marcinbiegala'><span class='fa fa-linkedin'></span></a> or just ping me on twitter <a title='Twitter' href='https://twitter.com/Biegal'><span class='fa fa-twitter'></span></a>.
