@@ -6,7 +6,6 @@ date: 2014-02-09
 ---
 Dev, motorcyclist, dreamer and coffee lover.  
 Humble servant of [dev@LDZ meetup](http://www.meetup.com/dev-LDZ/)  
-HappyDeveloper at [HappyTeam.io](https://happyteam.io)
 
 
 Besides that:  
