@@ -5,7 +5,6 @@ type: post
 categories:
   - NoCode
 date: 2018-12-13T18:40:43+01:00
-draft: true
 ---
 
 I'm a yes man.  
