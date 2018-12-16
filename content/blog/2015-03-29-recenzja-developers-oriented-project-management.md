@@ -17,7 +17,9 @@ tags:
 
 ---
 Jakiś czas temu dzięki [Andrzejowi Krzywdzie][1] i [Procentowi/DevTalk][2] zdobyłem egzemplarz książki [&#8220;Developers oriented project management&#8221;][3]. Przez dłuższy czas leżała sobie spokojnie na kindlu czekając na swoją kolej, ale los chciał, że miałem okazję poznać Andrzeja na [Wroc#][4], co zadziałało jak katalizator i postanowiłem wreszcie zapoznać się z treścią książki.  
-I powiem Wam, że nie żałuję :)<a href="https://blog.biegala.net/wp-content/uploads/2015/03/ArkencyDeveloperOriented.png" rel="lightbox[363]"><img class="alignright size-medium wp-image-366" src="https://blog.biegala.net/wp-content/uploads/2015/03/ArkencyDeveloperOriented-238x300.png" alt="Developers Oriented Project Management" width="238" height="300" srcset="https://blog.biegala.net/wp-content/uploads/2015/03/ArkencyDeveloperOriented-238x300.png 238w, https://blog.biegala.net/wp-content/uploads/2015/03/ArkencyDeveloperOriented.png 277w" sizes="(max-width: 238px) 100vw, 238px" /></a>
+I powiem Wam, że nie żałuję :)
+
+{{< img-post path="/wp-content/uploads/2015/03/" file="ArkencyDeveloperOriented.png" alt="Developer Oriented Project Management" type="center" >}}
 
 Dobra, ale po kolei. Zacznijmy od tego o czym jest ta książka ?  
 Tytuł zdradza w sumie wszystko. W książce znajdziemy m.in:  

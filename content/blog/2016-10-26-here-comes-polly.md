@@ -8,7 +8,8 @@ description: ""
 title: "Here comes Polly!"
 type: "post"
 ---
-<img style="float: right;" src="/img/polly.png" alt="Polly">
+{{< img-post path="/img/" file="polly.png" alt="Polly" type="right" >}}
+
 
 Handling errors is not something new, it was always part of good practices.
 But from simple, monolithic applications where in huge number of cases we could think of

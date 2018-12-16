@@ -8,7 +8,9 @@ description: ""
 title: "'Hourly Billing Is Nuts' review"
 type: "post"
 ---
-<img style="float: right;" src="/img/hourlybillingisnuts.png" alt="Hourly Billing Is Nuts cover">
+<!-- <img style="float: right;" src="/img/hourlybillingisnuts.png" alt="Hourly Billing Is Nuts cover"> -->
+
+{{< img-post path="/img/" file="hourlybillingisnuts.png" alt="Hourly Billing Is Nuts cover" type="right" >}}
 
 Recently I haven't written any thoughts about books that I read.
 Time to get back to this.
