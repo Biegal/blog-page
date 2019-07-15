@@ -1,5 +1,5 @@
 ---
-title: Who is Marcin Biegała
+title: Kim jest Marcin Biegała
 author: Marcin Biegała
 date: 2014-02-09
 

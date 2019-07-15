@@ -1,8 +1,9 @@
 baseurl = "https://blog.biegala.net/"
-languageCode = "en-us"
-title = "Marcin Biegała about code"
+languageCode = "pl-pl"
+DefaultContentLanguage = "pl"
+title = "Marcin Biegała o kodowaniu"
 theme = "hugo-future-imperfect"
-description = "Blog about coding, IT architecture and laziness"
+description = "Blog o kodowaniu, architekturze IT i społeczności"
 preserveTaxonomyNames = true
 paginate = 5
 disqusShortname = "blogbiegalanet"
@@ -13,7 +14,7 @@ canonifyURLs = true
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "Dev, motorcyclist, dreamer and coffee lover."
+    description          = "Dev, motocyklista, marzyciel i miłośnik kawy."
     # This will appear on the top left of the navigation bar
     navbarTitle          = "Marcin Biegała"
     # set this to the section name if section is not post
@@ -69,7 +70,7 @@ canonifyURLs = true
 [params.intro]
     header    = "Marcin Biegała"
 
-    paragraph = "Dev, motorcyclist, dreamer and coffee lover."
+    paragraph = "Dev, motocyklista, marzyciel i miłośnik kawy."
 
     about     = ""
 
@@ -98,17 +99,17 @@ canonifyURLs = true
     weight = 1
 
 [[menu.main]]
-    name = "Categories"
+    name = "Kategorie"
     url = "/categories"
     weight = 2
 
 [[menu.main]]
-    name = "About"
+    name = "O mnie"
     url = "/about"
     weight = 3
 
 [[menu.main]]
-    name = "Speaking"
+    name = "Wystąpienia"
     url = "/speaking"
     weight = 4
 

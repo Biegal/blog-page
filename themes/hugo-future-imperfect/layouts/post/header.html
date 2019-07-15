@@ -15,10 +15,18 @@
 
         <time class="published"
             datetime='{{ ($.Scratch.Get "dateType").Format "2006-01-02" }}'>
-            {{ ($.Scratch.Get "dateType").Format "January 2, 2006" }}</time>
+            {{ ($.Scratch.Get "dateType").Format "2" }}
+            {{ i18n (($.Scratch.Get "dateType").Format "January") }}
+            {{ ($.Scratch.Get "dateType").Format "2006" }}</time>
         <span class="author">{{ .Params.author }}</span>
         {{ if .Site.Params.includeReadingTime }}
-            <p>{{ .ReadingTime }} minute read</p>
+            {{ if (eq .ReadingTime 1) }}
+            <p>{{ .ReadingTime }} minuta czytania</p>
+            {{ else if or (eq .ReadingTime 2) (eq .ReadingTime 3) (eq .ReadingTime 4)}}
+            <p>{{ .ReadingTime }} minuty czytania</p>
+            {{ else }}
+            <p>{{ .ReadingTime }} minut czytania</p>
+            {{ end }}
         {{ end }}
         <!--<a href="#" class="author"><span class="name">Jane Doe</span><img src="images/avatar.jpg" alt="" /></a>-->
     </div>
