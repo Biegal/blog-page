@@ -9,77 +9,89 @@ title: "DevDay Delivered Again"
 type: "post"
 ---
 
-# DevDay delivered again!
+# DevDay dowiózł jak zawsze!
 
-I could actually stop right here, as above sums up whole experience pretty good :)
-As you can guess I was attending this years edition of DevDay and it was really really good !
-To foster [HappyTeam](https://happyteam.io) feedback culture here are few words about this years DevDay :)
+**W sumie to mógłbym nic więcej nie pisać, jako że to zdanie dość dobrze opisuje całe wydarzenie :)**  
+Jak możecie się już domyśleć brałem udział w tegorocznej edycji konferencji DevDay i było naprawdę dobrze!  
+Aby promować kulturę feedbacku, poniżej parę słów o edycji 2016.  
 
-Usually I don't write about venue, food and all that 'technical' stuff, as conference is to get inspired, empowered. But this time I need to say few word about this part too, as moving conference to a cinema was great idea. I havn't watched any conference yet in such comfortable seats! And slides on this huge screen, really great experience.
+Z reguły nie opisuje nic związanego z miejscem, jedzeniem czy 'technicznymi' rzeczami, jako że konferencje to przede wszystkim możliwość zainspirowania się i naładowania dev-baterii. Ale tym razem robię wyjątek, ponieważ DevDay przeniósł się do kina i była to absolutnie świetna decyzja!  
+Do tej pory nie oglądałem jeszcze prelekcji w tak komfortowych warunkach, w wygodnych fotelach, ze slajdami na wielkim kinowym ekranie.  
+**Super wrażenie!**  
 
-Getting back to the topic.
-Let's start at the begining
+Ale zacznijmy od początku.  
 
-# Workshops
+# Warsztaty
 
-This year I've participated in workshops day for the first time. I was attending REACT+REDUX workshop by Brian Holt. I won't talk about organisation, as it's always top notch with Michał and Rafał. It was really solid workshop. It looks like whole plan was well thought before. Complexity raised lineary and we touched many areas common to web app development. Every static resources that we needed was prepared before and Brian was working over the material with us so it was easy to ask questions etc. One thing I was missing was some kind of a task to do only by ourselves. From my experience everthing seems simple when you're doing it with whole group, but as soon as you try to do something on your own problems arise. It's good to have someone around to answer questions.
+W tym roku po raz pierwszy brałem udział w dniu warsztatowym. Konkretnie były to warsztaty z REACT+REDUX prowadzone przez Brian'a Holt. Nie ma co rozprawiać o organizacji, bo to co robią Michał i Rafał jest zawsze dopięte na ostatni guzik. Warsztaty były również solidnie poprowadzone.  
+Wyglądało na to, że cały plan na zajęcia był przemyślany wcześniej. Poziom trudności rósł powoli, a my mieliśmy okazję dotknięcia różnych części programowania aplikacji webowej w tej technologii. Wszystkie potrzebne zasoby były już gotowe, a Brian sam przechodził przez ten sam materiał więc łatwo było zadawać pytania itp. Jedna rzecz, której mi brakowało to jakieś zadanie/zadania do samodzielnego wykonania. Z mojego doświadczenia wszystko wydaje się proste, gdy robisz to z całą grupą, ale gdy tylko próbujesz coś zrobić sam, zaczynają pojawiać się pierwsze wątpliwości i pytania.  
+Dobrze, jeśli w takiej chwili ma się kogoś kto potrafi na nie odpowiedzieć.  
 
-In other rooms there were other two workshops INTERNET OF THINGS - BUILD IT and BUILDING SCALABLE JAVASCRIPT APPS. I don't know anything about the JS one, but from what I've heard IoT workshop was fun and divers. Collegue of mine even won some starter kit with alocohol level sensor :)
-
-So it began!
+Równolegle prowadzone były dwa inne warsztaty: *'Internet of things - build it'* oraz *'Building scalable javascript apps'*. Nie wiem nic o tym związanym z JS, ale słyszałem, że ten o IoT był na poziomie i dał uczestnikom sporo frajdy.
+Mój kolega wygrał nawet jakiś zestaw startowy z czujnikiem poziomu alkoholu ;) 
 
 &nbsp;  
-# Conference Day 1
+A wtedy się rozpoczęło!  
+
+# Konferencja - Dzień 1
   
 
 ## Firing People - Zach Holman
-Soft, funny talk about all the bad things that can happen when you're getting fired. Zach, as a former githubber, told us how that looked like on his example, what was good and what went bad. But it wasn't just story telling, Zach shared few advices for both - those who need to fire someone, and those being fired. It was interesting session, as that's not a topic you hear about on every conference.  
-Good one.
+Miękka, zabawna prelekcja o wszystkich złych rzeczach, które mogą się wydarzyć, gdy zostajesz zwolniony.  
+Zach, jako były githubber, opowiadał nam jak to może wyglądać na własnym przykładzie. Co było dobre, a co poszło nie tak.  
+Ale ta prelekcja to nie tylko opowiadanie historii. Zach podzielił się z widownią kilkoma poradami dla obu stron: i tych zwalnianych, i tych którzy muszą kogoś zwolnić.  
+Była to interesująca sesja, głównie dlatego że nie jest to temat, który często widzi się na konferencjach.  
+Pozytyw!
 
 ## React: Learn Once Write Anywhere - Brian Holt
-I was a bit disappointed with this one. First thing is that I've heard some part of this session already on react workshops. Second problem lies more in my attitude I think, I was just looking for something else there. We saw react used in a terminal, in a browser and a simple VR, but we could only saw an outcome and as a dev I was hoping to see a bit of code at least, see how different 'targets' differ in react code, what could be gotchas etc. I won't say it was good or bad as I was bit biased. You must watch it yourself.
+Byłem trochę zawiedziony tą sesją. Po pierwsze, część tej prezentacji już 'widziałem' biorąc udział w warsztatach dzień wcześniej. Drugi problem wynikał chyba bardziej z nastawienia - być może po prostu czegoś innego się spodziewałem. Zobaczyliśmy reacta w konsoli, w przeglądarce, a także w prostych zastosowaniach VR. Problem w tym, że widzieliśmy tylko efekt końcowy, gotową aplikację. Jako programista miałem nadzieję zobaczyć choć trochę kodu, to jak różne platformy wynikowe wpływają na 'hacki' w kodzie, jakie mogą być pułapki itp.  
+Nie chcę powiedzieć, czy sesja była dobra czy zła, bo mogę nie być obiektywny. Trzeba zobaczyć i ocenić samemu.
 
 ## Modern Performance Best Practices - Dustin Whittle
-Gosh that was a fast paced session! :)
-But a good one. Lots of knowledge, lots of tools, examples, repetitions.
-Very good session. One downside - maybe 'modern' is a bit of exaggeration, as most of the techniques should be know already to any developer doing some web stuff.
+Geez ta sesja naprawdę miała tempo! :)  
+Ale była dobra. Dużo, dużo wiedzy, dużo narzędzi, przykłady.  
+Bardzo dobra sesja. Jedyny minus - hasło 'modern' jest chyba troszkę naciągane względem tej sesji, jako że większość technik powinna być już znana web developerom.
 
 ## NASA's Ant-Inspired Swarmie Robots - Kurt Leucht
-That was interesting talk about how NASA uses ant alghoritms to build small robots that could potentially harvest resources on Mars. One thing that I've really took out of this session is that not always we must think of some complicated solutions or have big budgets to solve a problem, we can just look around and see if nature solved that already.
+To była bardzo interesująca prezentacja. Usłyszeliśmy, jak NASA używa algorytmów mrówkowych do budowania małych robotów, które potencjalnie mogłyby dokonywać badań powierzchni Marsa. Jedna rzecz, która bardzo zapadła mi w pamięć to, że nie zawsze musimy silić się na bardzo skomplikowane rozwiązania i wielkie budżety by rozwiązać problem. Czasem możemy po prostu się rozejrzeć wokół i sprawdzić, czy natura same nie rozwiązała już tego samego problemu.
 
 ## Backend-less Development Revisited - Tomasz Ducin
-This one was fun to watch. As I generally never thought about 'mocking' my API while doing frontend work (probably becuase I usually cover both sides) I had occasion to hear about problems that can arise when work is split between backend and frontend and how we can solve them. Good thing was that we had about 3 different approaches presented, so anyone could choose right tool for the job.
+Bardzo przyjemna prezentacja. W sumie to nigdy sam nie myślałem o 'mockowaniu' API wykonując prace na frontendzie (pewnie dlatego, że z reguły sam robię obie strony), ale dzięki Tomaszowi mogłem posłuchać o różnych problemach związanych z podziałem pracy między backend, a frontend i jak możemy sobie z nimi poradzić.  
+Dużym pozytywem były zaprezentowane 3 różne rozwiązania, tak że każdy może wybrać coś dla siebie.
 
 ## Remotely Agile - Marcin Bażydło
-As a remote worker that was a close to heart topic. We could hear about good and bad sides of working remote in an Agile team. Speaker shared some tips he uses in his day to day work. One thing that bothers me (which I guess is just a personal thing) is treating scrum as an synonym for agile.
+Jako że pracuję zdalnie od lat, ten temat był bliski mojemu sercu. Mogliśmy posłuchać o dobrych i złych aspektach pracy zdalnej w zwinnym zespole. Prezenter sprzedał nam kilka tipsów, których sam używa w swojej pracy. To co trochę mi przeszkadzało, to traktowanie scrum jako synonimu agile.
 
 ## Spaced repetition algorithm - Daniel Gaszewski
-This time we could hear about spaced repetition algorithm or in other words how to calculate repetition intervals when you try to learn something new. Decent presentation, but didn't cought my attention.
+Tym razem dane nam było posłuchać o 'spaced repetition algorithm' (algorytm interwałowych powtórek?) czyli innymi słowy jak wyliczać przerwy pomiędzy przypominaniem sobie nowego materiału, aby go utrwalić w pamięci.  
+Prezentacja ok, ale bez szału.
 
 ## Statistical Forecasting: Estimating Made Easy - Will Griffiths
-Ha, that was interesting. I'm not a huge fan of estimating, especially if that equals long meetings and many discussions. Therefore I was very intrigued when I've read title of this presentation. We could hear about automated approach to estimation that is used in speakers company. In few words, they use issue tracking system to get average time spent on a task. Based on that, they calculate how probable is that a task will take 1,2,3 days etc. After that they get random with some weights on it, to get new estimate. It was said, that it solves problem of people putting too small estimates as they are too optimistic.  
-For me, it's weird to put so much effor into hiding 'random'.
+To była dość interesująca sesja. Nie jestem wielkim fanem estymacji, zwłaszcza jeśli to tożsame z długimi spotkaniami i wieloma dyskusjami. Dlatego też byłem zaintrygowany tytułem tej sesji. Mogliśmy posłuchać o zautomatyzowanym podejściu do tego procesu, który jest wykorzystywany w firmie prelegenta. W kilku słowach, używają systemu do śledzenia zadań, aby wyliczyć średnią ilość czasu spędzonego na zadaniu. Na tej podstawie, wyliczane jest prawdopodobieństwo z jakim zadanie zajmie 1,2,3 dni itd. Po tym, generowana jest losowa wartość z pewnymi wagami by dostać nową estymatę. Ponoć rozwiązuje to problem ludzi, którzy podają zbyt małe estymaty (czyli są zbyt optymistyczni;).  
+Dla mnie to trochę dużo zachodu, żeby opakować generator liczb losowych.  
 
 ## Optimism - Reginald Braithwaite
-This was closing session of first day. As a happy developer it's a topic close to my heart. Reginald was telling us, that optimism it's not something we're born with, but we can learn it and train it too.
-How to sum it up ? Let's say I've already order book mentioned by Reginald in his presentation.
-Really recommend watching this session, as being better developer, starts with being a better human.
+To sesja zamykająca pierwszy dzień konferencji. "Pozytywne nastawienie" i radość z pracy to temat bardzo mi bliski. Reginald opowiadał, że nikt nie rodzi się optymistą. ale możemy się tej "umiejętności" nauczyć i ją ćwiczyć.  
+Jak to podsumować? Powiedzmy, że już zamówiłem książkę wspomnianą przez Reginalda w jego prezentacji ;)  
+Naprawdę polecam tą sesję, jako że bycie lepszym developerem, zaczyna się od bycia lepszym człowiekiem.
 
 &nbsp;    
-# Conference Day 2
-  
+# Konferencja - Dzień 2
 
 ## We Are The Explorers! - Kurt Leucht
-Opening keynote of day two. Kurt (same one that was presenting ant algorithms in NASA) tried to describe us what's the reasons behind our exploration of space getting back to wild west times. It was not at all technical, but very inspiring talk. I won't say it's a must-watch session, but it wasn't time wasted for sure.
+Keynote dnia drugiego. Kurt (to kolejna po algorytmach mrówkowych w NASA sesja tego prelegenta) próbował opisać publiczności powody naszej (ludzkiej) eksploracji kosmosu cofając się do czasów dzikiego zachodu.  
+W żadnym calu nie była to prelekcja techniczna, ale za to bardzo inspirująca.  
+Nie powiem, że to sesja typy "musisz to obejrzeć", ale na pewno nie był to stracony czas.
 
 ## JavaScript Combinators - Reginald Braithwaite
-I guess this was a session with the most number of code snippets from the ones that I've attended. I can agree with main topic of the presentation, that we should aim to write code that is composable and easier to read, but I must say that for me some of the examples went a bit too far. Nevertheless interesting talk to watch!
+To chyba sesja z największą ilością pokazanych fragmentów kodu ze wszystkich, w których uczestniczyłem w tej edycji. Zgadzam się z tematem prezentacji, że powinniśmy starać się pisać kod, z którego buduje się jak z klocków i który jest łatwy w odbiorze, ale jak na mój gust prezentowane przykłady poszły o krok za daleko.  
+Niemniej interesująca sesja do obejrzenia.
 
 ## How Did You Find That? - Niall Merrigan
-I guess I don't need to introduce Niall Merrigan. He is always well prepared and entertaining. And this time was the same. Niall showed how easy it is to get access to many systems and IoT hardware that is connected to the internet without any security. It was very serious topic presented in fun and entertaining way.
-Really recommend this one.
+Wydaje mi się, że osoba Niall'a Merrigan nie potrzebuje większego przedstawienia. Jest zawsze świetnie przygotowany, a jego prelekcje są zabawne. Niall pokazał nam jak łatwo jest dostać się do wielu systemów czy urządzeń IoT, które są podłączone do Internetu bez żadnego zabezpieczenia. Ten bardzo poważny temat, został przedstawiony w ciekawy i zabawny sposób.  
+Polecam!
 
-Sadly that was my last talk on this years DevDay.  
-IMHO that was best edition so far. I don't know how #debuggingCrew will rise the bar next year, but I guess they will start to think about it from Monday!
+Niestety to była moja ostatnia sesja na tegorocznym DevDay.  
+Moim zdaniem, to była najlepsza edycja do tej pory. Nie wiem jak #debuggingCrew podniesie poprzeczkę w przyszłym roku, ale myślę, że muszą zacząć o tym myśleć już od poniedziałku.
 
-See you all on next edition!
+Do zobaczenia na kolejnych edycjach!
