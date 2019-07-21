@@ -5,8 +5,11 @@ categories:
   - Event
 date: "2016-09-17T00:00:31+02:00"
 description: ""
-title: "DevDay Delivered Again"
+title: "DevDay dowiózł jak zawsze"
 type: "post"
+slug: "devday-dowiozl-jak-zawsze"
+aliases:
+  - /2016-09-17-devday-delivered-again/
 ---
 
 # DevDay dowiózł jak zawsze!
