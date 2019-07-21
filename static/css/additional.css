@@ -5,3 +5,24 @@ ul.social-icons {
 ul.social-icons a {
     border-bottom: 0;
 }
+
+article.post {
+    padding-top: 1em;
+}
+
+article.post > header {
+    margin-top: -1em;
+}
+
+article.post > header .meta {
+    padding-top: 1.75em;
+}
+
+article.post > header .title {
+    padding-top: 3.0em;
+}
+
+#social-share {
+    margin-top: 3em;
+    margin-bottom: 1em;
+}
