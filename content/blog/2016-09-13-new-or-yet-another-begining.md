@@ -3,9 +3,12 @@ author: "Marcin Biegała"
 categories: 
   - NoCode
 date: "2016-09-13T00:00:31+02:00"
-description: ""
-title: "New or yet another begining"
+title: "Nowy, albo kolejny początek"
+slug: "nowy-albo-kolejny-poczatek"
 type: "post"
+aliases:
+  - /2016-09-13-new-or-yet-another-begining/
+  - /blog/2016-09-13-new-or-yet-another-begining/
 ---
 
 > Jeśli zajrzałeś tutaj po 15 lipca 2019, muszę się do czegoś przyznać. Eksperyment z blogiem po angielsku nie do końca się udał i wróciłem do wersji polskiej.
