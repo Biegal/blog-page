@@ -10,6 +10,7 @@ type: "post"
 slug: "devday-dowiozl-jak-zawsze"
 aliases:
   - /2016-09-17-devday-delivered-again/
+  - /blog/2016-09-17-devday-delivered-again/
 ---
 
 # DevDay dowiózł jak zawsze!
