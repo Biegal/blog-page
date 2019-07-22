@@ -26,3 +26,17 @@ article.post > header .title {
     margin-top: 3em;
     margin-bottom: 1em;
 }
+
+#_form_1_ {
+    margin-top: 0;
+    margin-bottom: 1em;
+    border: 1px solid rgba(160, 160, 160, 0.3) !important;
+}
+
+#_form_1_._inline-style input[type="date"] {
+    padding: 6px 12px;
+}
+
+#_form_1_._inline-style input[type="text"] {
+    padding: 6px 12px;
+}
