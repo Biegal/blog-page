@@ -43,7 +43,7 @@ Pewnie nie mogę jeszcze startować na Senior DevOps ;), ale kilka "hintów" spr
 
 {{< tweet 1152664534659883008 >}}
 
-**DevWarsztaty rzadko się powtarzają**, ale z tego co wiem macie jeszcze szansę na podobne, a nawet bardziej zaawansowane [warsztaty z Kubernetes z Gutkiem i Piotrkiem na DevConf.](https://devconf.pl/workshops/introduction-to-kubernetes/)
+**DevWarsztaty rzadko się powtarzają**, ale z tego co wiem macie jeszcze szansę na podobne, a nawet bardziej zaawansowane **[warsztaty z Kubernetes z Gutkiem i Piotrkiem na DevConf.](https://devconf.pl/workshops/introduction-to-kubernetes/)**
 
 Osobiście polecam i [DevConf](https://devconf.pl) i [DevWarsztaty](http://devwarsztaty.pl).  
 Śledźcie i propagujcie te inicjatywy w świecie!
