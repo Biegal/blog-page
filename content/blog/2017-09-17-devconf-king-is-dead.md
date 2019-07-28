@@ -5,89 +5,96 @@ categories:
   - Event
 date: "2017-07-17T03:35:31+02:00"
 description: ""
-title: "DevConf 2017 - The king is dead, long live the king!"
+title: "DevConf 2017 - Umarł król, niech żyje król!"
 type: "post"
+slug: "devconf-2017-umarl-krol-niech-zyje-krol"
+tags:
+  - devconf
+  - devday
+  - wydarzenie
+aliases:
+  - /2017-09-17-devconf-king-is-dead/
+  - /blog/2017-09-17-devconf-king-is-dead/
 ---
-For past 4 years now, few days in September were reserved for developer fest - DevDay :)
-This year was different, but only a little.  
-So as hopefully everyone is already aware, DevDay is no more, but Michał and Rafał who were responsible for all previous editions had started new conference called [DevConf](http://devconf.pl/).
-And if you met those Guys, you know you can't go wrong with an event organized by them!
-So was it good?  
-**Hell yes!**  
-Name, logo and few details have changed, but DevConf proves that it's not brand or money that makes great things, but passion, energy and people!
-I had a great time, got inspired, learned few things and recharged batteries!  
-Everything I want from developer conference!  
-
 ![DevConf logo](/img/logo_devconf.png)  
 
-Now to some details for anyone that missed the event (shame on you!).
-The event took place in Cracow's Multikino cinema. And you can't imagine how greatly that fits a conference. Comfortable seats, great audio and of course big screen.
-Networking area was arranged in the lobby. We had tea/coffee, plenty of snacks (sweet and not), launch - everything ok!
-We had also few sponsors booths here. But believe me, it wasn't a problem at all. They were not interfering with the conference or nagging people. I would even say that with their gadgets and quizzes they were a nice addition to the whole experience.
+Przez ostatnie 4 lata, kilka dni Września zawsze rezerwowałem na prawdziwą dev-fiestę, czyli DevDay :) Ten rok okazał się inny, ale tylko odrobinę.
+Mam nadzieję, że już wszyscy wiedzą, że kolejnej edycji DevDay nie będzie, ale Michał i Rafał, którzy byli odpowiedzialni za wszystkie dotychczasowe edycję wystartowali z nową konferencją, którą nazwali [DevConf](http://devconf.pl).  
+A jeżeli mieliście okazję poznać chłopaków osobiście, dobrze już wiecie, że nie można się zawieść na evencie przez nich organizowanym!  
+Czy było dobrze?  
+**NO JASNE!**  
+Nazwa, logo i kilka drobnych detali rzeczywiście się zmieniło, ale DevConf udowadnia, że to nie nazwa czy budżet czynią event wyjątkowym, a pasja, energia i ludzie!
+Świetnie się bawiłem, kilka sesji zainspirowało mnie do nowych pomysłów, sporo się nauczyłem i naładowałem baterię.  
+Wszystko czego oczekuję od konferencji! 
 
-Ok, to the content. Excluding workshops, we had two days packed with sessions. For an almost whole day (not counting opening/closing keynotes) we had three tracks to choose from.
-Those are sessions I've visited and few words about them.
+Czas na trochę szczegółów, dla tych których nie było (wstyd!).  
+Konferencja odbyła się w Krakowskim Multikinie. Nawet sobie nie wyobrażacie jak świetnie kino pasuje do konferencji. Wygodne fotele, świetne nagłośnienie no i oczywiście wielki ekran. Przestrzeń do 'networkingu' była zaaranżowana w przestrzeni między salami kinowymi. Do naszej dyspozycji były kawa/herbata, mnóstwo przekąsek (nie tylko słodkich), lunch - wszystko super!  
+Pojawiło się nawet kilka budek sponsorów, ale uwierzcie mi, to nie był żaden problem. Ich obecność nie przeszkadzała, nie nagabywali itd. (a byłem na eventach, gdzie to było wręcz męczące). W sumie, to nawet różne gadżety czy quizzy były miłym urozmaiceniem całej konferencji.
+
+Przejdźmy do treści. Wyłączając warsztaty, mieliśmy dwa dni po brzegi wypełnione prelekcjami. Przez większość takiego dnia (nie licząc sesji otwierającej i zamykającej) mieliśmy do wyboru trzy ścieżki.  
+Poniżej możecie przeczytać parę słów o sesjach, które odwiedziłem.
 
 <br/>
-## Day 1
+## Dzień 1
 ### The Art of Simplicity - Venkat Subramaniam
-I've heard good things about Venkat Subramaniam, but never had a chance to listen to him. And I must say that he confirmed all those opinions. He made a point, that we as developers often write clever code instead of simple code. After few years in IT I fully understand his point of view. The session was very good, funny in parts and engaging.  
-
+Wiele dobrego słyszałem o prelekcjach Venkat Subramaniam, ale do tej pory nie miałem okazji słuchać go na żywo. Muszę potwierdzić te opinie :) Prelegent zaczął od postawienia tezy, że często developerzy piszą 'sprytny' kod, zamiast prostego. Po kilku latach w IT w pełni rozumiem tą perspektywę. Sesja była bardzo dobra, zabawna i angażująca.
 
 ### Using Machine Learning and Open Data to Report 216 Brazilian Congresspeople for Corruption - Irio Musskopf
-That one truly fits into 'inspirational' category. We heard a story about how using publicly available data and some machine learning, a group of people was able to track extortions in Brazilian congress. It was eyes opening session, the one that makes you think if you could do the same in your country. To take action. Maybe it wasn't too technical, but definitely something to watch!  
+Ta prelekcja idealnie wpisuje się w kategorię 'inspirujące'. Mogliśmy usłyszeć historię o tym jak używając publicznie dostępnych danych i algorytmów uczenia maszynowego, grupa ludzi była w stanie śledzić wyłudzenia w Brazylijskim kongresie. To naprawdę sesja, która otwiera oczy. Od razu człowiek zaczyna się zastanawiać czy można tego samego dokonać we własnym kraju. Zacząć działać. Może sama prelekcja nie była zbyt techniczna, ale na pewno jest warta obejrzenia.  
 
 
 ### An Accessible Guide to Accessibility - Nick Heiner
-Good session on accessibility. I've liked that it wasn't just an overview of WCAG rules, but also we heard some insights about how people with actual disabilities use computers and screen readers.  
+Dobra prelekcja o tworzeniu rozwiązań dostępnych dla osób z niepełnosprawnościami. Podobało mi się, że nie był to tylko przegląd zasad WCAG, ale usłyszeliśmy też trochę szczegółów o tym jak konkretnie osoby korzystają z komputerów i czytników ekranu.  
 
 
 
 ### Squashing JavaScript Bugs - Todd Gardner
-That's one of the best session on day 1. We've seen a previously prepared web app which had few bugs. The idea was to use Chrome Developer Tools at it's best to investigate and fix those. It was a very well delivered session, with good content. I liked it a lot!  
+To jedna z lepszych sesji pierwszego dnia. Zobaczyliśmy wcześniej przygotowaną aplikację internetową, która miała kilka błędów. Ideą sesji było użycie narzędzi deweloperskich z Chrome aby je wyśledzić i naprawić. Dobrze poprowadzona prelekcja, z dobrą treścią.  
+Bardzo mi się podobała!  
 
 
 ### Reactive Programming with Commands, Actors and Events - Riccardo Terrell
-I think that was the most technical session. We were able to see how we can apply CQRS patterns to make our systems more performant. It was sometimes hard to catch up (especially on the part where we reviewed code) but it was showing not only some theoretical statements but also real code that backed it.  
+To chyba najbardziej 'techniczna' sesja, którą widziałem podczas tej edycji. Zobaczyliśmy jak możemy użyć wzorca CQRS aby przyspieszyć nasze aplikacje. Chwilami miałem problemy, żeby nadążyć za treścią (zwłaszcza w momentach z dużą ilością kodu), ale za to nie były to tylko teoretyczne rozważania, ale też praktyczne przykłady.  
 
 
 ### Performance That Pays Off - Szymon Kulec
-Few ideas about how we can make our code more performant. Such session where we were considering those little details instead of big ideas was a good addition to the whole agenda.  
+Usłyszeliśmy kilka pomysłów na to jak możemy poprawić wydajność naszego kodu. To sesja, w której skupialiśmy się na drobnych detalach, zamiast na dużych rozwiązaniach i było to dobre dopełnienie całej agendy.   
 
 
 ### How to Run a High Functioning Team - Nick Heiner
-Another very good session. Plus totally different topic, as we were listening how we could make out team better. It was a well structured session, where we learned how to behave as a team member but also get some hints how to handle a team from the leadership position. 
-A good set of tips and I recommend this session to anyone!  
+I jeszcze jedna dobra sesja. Zwłaszcza, że na zupełnie inny temat. Tym razem słuchaliśmy, jak możemy zmienić nasze zespoły na lepsze. Dobrze ustrukturyzowana sesja, na której nauczyliśmy się co to znaczy być dobrym członkiem zespołu, ale też kilka pomysłów na to jak być liderem takiego zespołu.  
+Dobry zestaw praktyk i polecam tą sesję.  
  
 
 <br/>
-## Day 2
+## Dzień 2
 ### A New Dawn of the Human Experience: Artificial Sentience and Fabricated Empathy in Cognitive Computing - Mark Wyner
-If I had to choose the best session on the conference, this would be the one. Inspirational topic, interesting ideas and brilliant delivery. In my opinion, from the 'technical point' of a session it was really great. There was an entertaining story, moments that made you think and jokes.
-We heard about different kinds of problems (not obvious ones!) that lay ahead on the human-robot interaction area. I must say I've never looked at this topic from such angles and I'm happy I was a part of this keynote.  
+Jeśli miałbym wybrać najlepszą prelekcję konferencji, to byłaby ta.  
+Inspirujący temat, interesujące treści i dobry warsztat prelegencki. Moim zdaniem, z 'technicznej' strony to była naprawdę świetna sesja. Mieliśmy angażującą historię, chwilę na rozmyślania, ale też na śmiech.  
+Usłyszeliśmy o różnych problemach (nie zawsze oczywistych), które czekają na nas w przestrzeni interakcji między nami, a robotami. Muszę przyznać, że nigdy nie patrzyłem na ten temat z takich perspektyw i cieszę się, że brałem udział w tej sesji.  
 
 
 ### Offline-first Apps with WebComponents - Amahdy Abdelaziz
-Offline apps are getting more noise lately as we came to the critical point of size and complexity of our apps. We've seen an example of using PouchDB to let our web app work even when there is no
-internet connection. It was good session although I would like to hear also about other problems/solutions in this area.  
+Aplikacje działające offline to temat trendy ostatnio, zwłaszcza że powoli docieramy do punktu krytycznego, jeśli chodzi o ich rozmiar i poziom skomplikowania. Na sesji zobaczyliśmy przykłady użycia PouchDB, które pozwalały aplikacji normalnie pracować nawet jeśli nie było aktywnego połączenia internetowego.  
+To była dobra sesja, ale z chęcią usłyszał bym też o innych problemach i rozwiązaniach w tym obszarze.  
 
 
 ### Domain Driven Design: The Good Parts - Jimmy Bogard
-Another great session. Room was more than full here.
-This one was one of the sessions that shows you real life scenarios, war stories. Jimmy Bogard showed us his scars from working on a huge project for goverment where they tried to apply DDD.
-He shared what he learned out of this adventure.
-You can't miss this one!  
+Następna świetna sesja. Sala pękała w szwach.  
+To była jedna z tych prelekcji, które pokazują prawdziwe przykłady, tzw. 'war stories'. Jimmy Bogard podzielił się z nami bliznami i wspomnieniami z wielkiego rządowego projektu, w którym próbowano zaaplikować zasady DDD.  
+Prelegent zdradził nam czego nauczył się podczas tej współpracy.  
+Nie przegapcie tej sesji!  
 
 
 ### Fending Off Zombies with OTP - Dave Long
-I have a problem with this one. I was very happy to see an Elixir talk on DevConf. I believe in right tool for the job approach, so I try to learn different languages and it's solutions to common problems, so for me it's always good to have the ability to hear about some less popular concerns.  
+Mam trochę zgryz z tą pozycją. Bardzo się ucieszyłem, gdy zobaczyłem sesję o Elixir na DevConf. Wierzę w zasadę 'odpowiednie narzędzie do zadania`, więc próbuję uczyć się różnych języków i podglądać, jak rozwiązują typowe problemy. Dla mnie była to więc dobra okazja do posłuchania o trochę 'innym świecie', jednak czegoś mi w tej sesji brakowało.  
 
 
 ### Blowing Up the Bike Shed with Conventions - Jimmy Bogard
-Another good presentation from Jimmy Bogard. This time, he showed how using a bit of magic in code, we can create a bunch of conventions that will solve some of the complications in code and reduce the number of worthless discussions in the team.  
+I kolejna dobra sesja tego prelegenta. Tym razem, Jimmy Bogard pokazał nam, jak używając odrobiny magii w kodzie, możemy utworzyć szereg konwencji, które uproszczą nasze rozwiązania i uwolnią od wielu niepotrzebnych dyskusji w zespole.  
 
 <br/>
-Sadly that was the end of the conference for me, but I had heard only good things about Sebastian Gębski talk and the closing session from Todd Gardner, so I'm looking forward to releasing all recorder session.
+Niestety to był koniec konferencji dla mnie, ale słyszałem dużo dobrego o sesji Sebastiana Gębskiego, a także o prelekcji zamykającej - w wykonaniu Todd Gardner, więc już czekam na upublicznienie wszystkich nagranych sesji.  
 
 
-Hope to see you there next year!
+Mam nadzieję, że widzimy się za rok!
