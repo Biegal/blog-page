@@ -16,7 +16,6 @@ aliases:
   - /2017-09-17-devconf-king-is-dead/
   - /blog/2017-09-17-devconf-king-is-dead/
 ---
-![DevConf logo](/img/logo_devconf.png)  
 
 Przez ostatnie 4 lata, kilka dni Września zawsze rezerwowałem na prawdziwą dev-fiestę, czyli DevDay :) Ten rok okazał się inny, ale tylko odrobinę.
 Mam nadzieję, że już wszyscy wiedzą, że kolejnej edycji DevDay nie będzie, ale Michał i Rafał, którzy byli odpowiedzialni za wszystkie dotychczasowe edycję wystartowali z nową konferencją, którą nazwali [DevConf](http://devconf.pl).  
@@ -26,6 +25,8 @@ Czy było dobrze?
 Nazwa, logo i kilka drobnych detali rzeczywiście się zmieniło, ale DevConf udowadnia, że to nie nazwa czy budżet czynią event wyjątkowym, a pasja, energia i ludzie!
 Świetnie się bawiłem, kilka sesji zainspirowało mnie do nowych pomysłów, sporo się nauczyłem i naładowałem baterię.  
 Wszystko czego oczekuję od konferencji! 
+
+![DevConf logo](/img/logo_devconf.png)  
 
 Czas na trochę szczegółów, dla tych których nie było (wstyd!).  
 Konferencja odbyła się w Krakowskim Multikinie. Nawet sobie nie wyobrażacie jak świetnie kino pasuje do konferencji. Wygodne fotele, świetne nagłośnienie no i oczywiście wielki ekran. Przestrzeń do 'networkingu' była zaaranżowana w przestrzeni między salami kinowymi. Do naszej dyspozycji były kawa/herbata, mnóstwo przekąsek (nie tylko słodkich), lunch - wszystko super!  
