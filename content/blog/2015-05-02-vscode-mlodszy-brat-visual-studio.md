@@ -12,7 +12,7 @@ categories:
   - NoCode
   - Tools
 tags:
-  - 'C#'
+  - CSharp
   - GIT
   - Tool
 

@@ -12,7 +12,7 @@ categories:
   - NoCode
   - Event
 tags:
-  - 'C#'
+  - CSharp
   - Conference
 
 ---

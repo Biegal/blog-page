@@ -2,7 +2,7 @@
 author: "Marcin Biegała"
 categories:
   - Code
-  - C#
+  - CSharp
 date: "2016-10-26T13:35:31+02:00"
 description: ""
 title: "Here comes Polly!"
