@@ -1,19 +1,24 @@
-baseurl = "https://blog.biegala.net/"
-languageCode = "pl-pl"
 DefaultContentLanguage = "pl"
-title = "Marcin Biegała o kodowaniu"
-theme = "hugo-future-imperfect-slim"
-description = "Blog o kodowaniu, architekturze IT i społeczności"
-preserveTaxonomyNames = true
-paginate = 10
-disqusShortname = "blogbiegalanet"
-googleAnalytics = "UA-11867728-3"
-metaDataFormat = "yaml"
-enableRobotsTXT = true
+baseurl = "https://blog.biegala.net/"
 canonifyURLs = true
+description = "Blog o kodowaniu, architekturze IT i społeczności"
+disableLanguages = []
+disqusShortname = "blogbiegalanet"
+enableRobotsTXT = true
+googleAnalytics = "UA-11867728-3"
+languageCode = "pl-pl"
+metaDataFormat = "yaml"
+paginate = 10
 pluralizeListTitles = false
-disableLanguages = [""]
+preserveTaxonomyNames = true
+theme = "hugo-future-imperfect-slim"
+title = "Marcin Biegała o kodowaniu"
 
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputs]
+home = ["html", "json", "rss"]
 [params]
 # Add additional section names to mainSections to include posts from
 # those sections on the homepage.
@@ -30,8 +35,8 @@ jsFiles = ["default"]
 
 # Sets options for highlight.js
 highlightjs = true
-highlightjsTheme = "github"
 highlightjsLang = ["html", "css", "js", "toml"]
+highlightjsTheme = "github"
 
 # Sets where "View More Posts" links to
 viewMorePostsLink = "/blog/"
@@ -39,15 +44,18 @@ viewMorePostsLink = "/blog/"
 # Activate Estimated Reading Times, which appear in the post headers
 readingTime = true
 
+imageStretch = ""
+removeBlur = false
+
 # Sets which Social Share links appear in posts.
 # Options are twitter, facebook, reddit, linkedin, pinterest, email
 socialShare = [
-    "twitter",
-    "facebook",
-    "reddit",
-    "linkedin",
-    "pinterest",
-    "email"
+  "twitter",
+  "facebook",
+  "reddit",
+  "linkedin",
+  "pinterest",
+  "email",
 ]
 
 [params.meta]
@@ -61,11 +69,11 @@ author = "Marcin Biegała"
 # directory favicon.ico, utlize this funtion. It is recommened to use
 # https://realfavicongenerator.net to generate your icons as that is the basis
 # for the theme's naming.
-favicon = false
-svg = true
-faviconVersion = "1"
-msColor = "#ffffff" # Copy from the https://realfavicongenerator.net
+favicon = false 
+faviconVersion = "1" 
 iOSColor = "#ffffff" # Copy from the https://realfavicongenerator.net
+msColor = "#ffffff" # Copy from the https://realfavicongenerator.net
+svg = true 
 
 [params.header]
 # This will appear on the top left of the navigation bar
@@ -73,9 +81,9 @@ navbarTitle = "Marcin Biegała"
 
 # Sets navbarTitle to match the section of the website
 dynamicTitles = true
+languageMenu = true
 searchMenu = true
 shareMenu = true
-languageMenu = true
 
 # These are optional params related to the sidebar. They are recommended, but not
 # required for proper functionality. HTML is supported within the params.
@@ -95,9 +103,9 @@ alwaysOnHomepage = false
 [params.intro.pic]
 src = "/img/marcin_biegala_small.jpg"
 # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
+alt = "Marcin Biegała"
 shape = "hexagon"
 width = "72"
-alt = "Marcin Biegała"
 
 [params.sidebar]
 about = "W życiu staram się rozwiązywać problemy ludzi z wykorzystaniem kodu, bądź też przez jego usuwanie ;) <br/> Miałem przyjemność pracować w całym przekroju firm, od mikroskopijnych, przez startup’y, po wielkie banki inwestycyjne i współprowadzenie software house."
@@ -120,38 +128,42 @@ socialFooter = true
 [params.staticman]
 # If using GitHub, go to https://github.com/apps/staticman-net
 # If using GitLab, just add the GitLab bot, NO need to hit `/connect/v3/...`
-enabled = false
 api = "" # without trailing slash, defaults to "staticman3.herokuapp.com"
+branch = "" 
+enabled = false 
 gitProvider = "github" # either "github" or "gitlab"
-username = ""
-repo = ""
-branch = ""
+repo = "" 
+username = "" 
 
 [params.staticman.recaptcha]
 # Both keys must be present to enable recaptcha
+encryptedKey = "" 
 siteKey = "" # Site Key
-encryptedKey = ""
 
 [menu]
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
 [[menu.main]]
+identifier = "blog"
 name = "Blog"
 url = "/blog"
 weight = 1
 
 [[menu.main]]
+identifier = "categories"
 name = "Kategorie"
 url = "/categories"
 weight = 2
 
 [[menu.main]]
+identifier = "about"
 name = "O mnie"
 url = "/about"
 weight = 3
 
 [[menu.main]]
+identifier = "speaking"
 name = "Wystąpienia"
 url = "/speaking"
 weight = 4
@@ -169,49 +181,49 @@ weight = 1
 # and socialAppearAtBottom.
 [social]
 # Coding Communities
-github = "biegal"
-gitlab = ""
+bitbucket = "" 
+codepen = "" 
+github = "biegal" 
+gitlab = "" 
+jsfiddle = "" 
 stackoverflow = "1340855" # User Number
-bitbucket = ""
-jsfiddle = ""
-codepen = ""
 # Visual Art Communities
-deviantart = ""
-flickr = ""
 behance = ""
+deviantart = ""
 dribbble = ""
+flickr = ""
 # Publishing Communities
-wordpress = ""
 medium = ""
+wordpress = ""
 # Professional/Business Oriented Communities
-linkedin = "marcinbiegala"
-linkedin_company = ""
 foursquare = ""
-xing = ""
+linkedin = "marcinbiegala"
+linkedin_company = "codeclusive"
 slideshare = ""
+xing = ""
 # Social Networks
-facebook = ""
-googleplus = ""
-reddit = ""
-quora = ""
-youtube = ""
-vimeo = ""
+facebook = "" 
+googleplus = "" 
+quora = "" 
+reddit = "" 
+vimeo = "" 
 whatsapp = "" # WhatsApp Number
+youtube = "" 
 # WeChat and QQ need testing.
-wechat = ""
+googlescholar = "" 
+instagram = "" 
+keybase = "biegal" 
+mastodon = "" 
+orcid = "" 
+pinterest = "" 
 qq = "" # User ID Number
-instagram = ""
-tumblr = ""
-twitter = "biegal"
-skype = ""
-snapchat = ""
-pinterest = ""
-telegram = ""
-vine = ""
-googlescholar = ""
-orcid = ""
-researchgate = ""
-keybase = "biegal"
-mastodon = ""
+researchgate = "" 
+skype = "" 
+snapchat = "" 
+telegram = "" 
+tumblr = "" 
+twitter = "biegal" 
+vine = "" 
+wechat = "" 
 # Email
 email = "marcin@biegala.net"
