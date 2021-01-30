@@ -1,0 +1,6 @@
+# Post
+[reading_time]
+  one = "1 Minuta Czytania"
+  other = "{{ .Count }} Minuty Czytania"
+  few = "Kilka Minut Czytania"
+  many = "Wiele Minut Czytania"

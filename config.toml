@@ -2,7 +2,7 @@ baseurl = "https://blog.biegala.net/"
 languageCode = "pl-pl"
 DefaultContentLanguage = "pl"
 title = "Marcin Biegała o kodowaniu"
-theme = "hugo-future-imperfect"
+theme = "hugo-future-imperfect-slim"
 description = "Blog o kodowaniu, architekturze IT i społeczności"
 preserveTaxonomyNames = true
 paginate = 10
@@ -11,140 +11,207 @@ googleAnalytics = "UA-11867728-3"
 metaDataFormat = "yaml"
 enableRobotsTXT = true
 canonifyURLs = true
+pluralizeListTitles = false
+disableLanguages = [""]
 
 [params]
-    # Sets the meta tag description, usually reserved for the main page
-    description          = "Dev, motocyklista, marzyciel i miłośnik kawy."
-    # This will appear on the top left of the navigation bar
-    navbarTitle          = "Marcin Biegała"
-    # set this to the section name if section is not post
-    viewMorePostLink     = "/blog/"
+# Add additional section names to mainSections to include posts from
+# those sections on the homepage.
+mainSections = ["post"]
 
-# Optional Params
-    # Sets navbarTitle to match the section of the website
-    dynamicTitles        = false
-    # Sets RSS icons to appear on the sidebar with the social media buttons
-    rssAppearAtTop       = true
-    rssAppearAtBottom    = true
-    # Social media buttons that appear on the sidebar
-    socialAppearAtTop    = true
-    socialAppearAtBottom = true
-    # Sets Categories to sort by number of posts instead of alphabetical
-    categoriesByCount    = true
-    showSidebarCategories = true
-    includeReadingTime   = true
-    # The set of favicons used are based on the write-up from this link:
-    # https://github.com/audreyr/favicon-cheat-sheet
-    # Please see the favicon partial template for more information
-    loadFavicon          = false
-    faviconVersion       = ""
-    
-  # Sets Social Share links to appear on posts
-  socialShare          = true
-  # Sets specific share to appear on posts (default behavior is to appear)
-  socialShareTwitter   = true
-  socialShareGoogleplus = false
-  socialShareFacebook  = true
-  socialShareReddit    = true
-  socialShareLinkedin  = true
-  socialShareStumbleupon = false
-  socialSharePinterest = false
-  socialShareEmail     = true
-    # Load custom CSS or JavaScript files. This replaces the deprecated params
-    # minifiedFilesCSS and minifiedFilesJS. The variable is an array so that you
-    # can load multiple files if necessary. You can also load the standard theme
-    # files by adding the value, "default".
-    # customCSS            = ["default", "/path/to/file"]
-    # customJS             = ["default", "/path/to/file"]
-    customCSS            = ["default"]
-    customJS             = ["default"]
-    #additionalCss = ["css/additional.css"]
+enableCDN = false
 
-    # Loading min files
-    #customCSS            = ["/css/main.min.css"]
-    #customJS             = ["/js/main.min.js"]
+# Loads CSS and JavaScript files. The variable is an array so that you can load
+# multiple/additional files if necessary. The standard theme files can be loaded
+# by adding the value, "default". Default includes the add-on.css and and-on.js.
+# Example: ["default", "/path/to/file"]
+cssFiles = ["default"]
+jsFiles = ["default"]
 
+# Sets options for highlight.js
+highlightjs = true
+highlightjsTheme = "github"
+highlightjsLang = ["html", "css", "js", "toml"]
 
-# parms.intro will appear on the sidebar
-# This is optional, but it's suggested to use
+# Sets where "View More Posts" links to
+viewMorePostsLink = "/blog/"
+
+# Activate Estimated Reading Times, which appear in the post headers
+readingTime = true
+
+# Sets which Social Share links appear in posts.
+# Options are twitter, facebook, reddit, linkedin, pinterest, email
+socialShare = [
+    "twitter",
+    "facebook",
+    "reddit",
+    "linkedin",
+    "pinterest",
+    "email"
+]
+
+[params.meta]
+# Sets the meta tag description, usually reserved for the main page
+description = "Dev, motocyklista, marzyciel i miłośnik kawy."
+
+# Sets the meta tag author
+author = "Marcin Biegała"
+
+# If you would like to add more comprehensive favicon support passed root
+# directory favicon.ico, utlize this funtion. It is recommened to use
+# https://realfavicongenerator.net to generate your icons as that is the basis
+# for the theme's naming.
+favicon = false
+svg = true
+faviconVersion = "1"
+msColor = "#ffffff" # Copy from the https://realfavicongenerator.net
+iOSColor = "#ffffff" # Copy from the https://realfavicongenerator.net
+
+[params.header]
+# This will appear on the top left of the navigation bar
+navbarTitle = "Marcin Biegała"
+
+# Sets navbarTitle to match the section of the website
+dynamicTitles = true
+searchMenu = true
+shareMenu = true
+languageMenu = true
+
+# These are optional params related to the sidebar. They are recommended, but not
+# required for proper functionality. HTML is supported within the params.
 [params.intro]
-    header    = "Marcin Biegała"
+header = "Marcin Biegała"
+paragraph = "Dev, motocyklista, marzyciel i miłośnik kawy."
+rssIntro = true
+socialIntro = true
+# You may not want to display a long intro above content in the
+# single column layout used on smaller screens.
+hideWhenSingleColumn = false
+# But you may want to always display the intro on the homepage.
+alwaysOnHomepage = false
 
-    paragraph = "Dev, motocyklista, marzyciel i miłośnik kawy."
-
-    about     = ""
-
-# This will also appear on the sidebar.
-# A width of less than 100px is recommended
-# This is optional
+# This appears at the top of the sidebar above params.intro.header.
+# A width of less than 100px is recommended from a design perspective.
 [params.intro.pic]
-    src       = "/img/marcin_biegala_small.jpg"
-    # modify your picture in the shape of a circle or
-    # future imperfect's hexagonal shape
-    circle    = false
-    imperfect = true
-    width     = ""
-    alt       = "Marcin Biegała"
+src = "/img/marcin_biegala_small.jpg"
+# Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
+shape = "hexagon"
+width = "72"
+alt = "Marcin Biegała"
 
-# Adjust the amount of recent posts on the sidebar.
-# This is optional. The default value 5 will be used
-[params.postAmount]
-    sidebar = 5
+[params.sidebar]
+about = "W życiu staram się rozwiązywać problemy ludzi z wykorzystaniem kodu, bądź też przez jego usuwanie ;) <br/> Miałem przyjemność pracować w całym przekroju firm, od mikroskopijnych, przez startup’y, po wielkie banki inwestycyjne i współprowadzenie software house."
+# Sets the number of recent posts to show in the sidebar. The default value is 5.
+postAmount = 5
+# set to show or to hide categories in the sidebar
+categories = true
+# Sets Categories to sort by number of posts instead of alphabetical
+categoriesByCount = true
 
-# Set up your menu items in the navigation bar
-# You can use identifier to prepend a font awesome icon to your text
+[params.footer]
+# Sets RSS icons to appear on the sidebar with the social media buttons
+rssFooter = true
+# Sets Social Media icons to appear on the sidebar
+socialFooter = true
+
+# Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
+# due to its ease of use. Feel free to check out both and decide which you would
+# prefer to use. See staticman.yml for additional settings.
+[params.staticman]
+# If using GitHub, go to https://github.com/apps/staticman-net
+# If using GitLab, just add the GitLab bot, NO need to hit `/connect/v3/...`
+enabled = false
+api = "" # without trailing slash, defaults to "staticman3.herokuapp.com"
+gitProvider = "github" # either "github" or "gitlab"
+username = ""
+repo = ""
+branch = ""
+
+[params.staticman.recaptcha]
+# Both keys must be present to enable recaptcha
+siteKey = "" # Site Key
+encryptedKey = ""
+
+[menu]
+
+# Sets the menu items in the navigation bar
+# Identifier prepends a Font Awesome icon to the menu item
 [[menu.main]]
-    name = "Blog"
-    url = "/blog"
-    weight = 1
+name = "Blog"
+url = "/blog"
+weight = 1
 
 [[menu.main]]
-    name = "Kategorie"
-    url = "/categories"
-    weight = 2
+name = "Kategorie"
+url = "/categories"
+weight = 2
 
 [[menu.main]]
-    name = "O mnie"
-    url = "/about"
-    weight = 3
+name = "O mnie"
+url = "/about"
+weight = 3
 
 [[menu.main]]
-    name = "Wystąpienia"
-    url = "/speaking"
-    weight = 4
+name = "Wystąpienia"
+url = "/speaking"
+weight = 4
 
-# Insert your username and the icon will apear on the page as long as
-# socialAppearAtTop or socialAppearAtBottom is set to true in the params area
-# The social media icons will appear on the sidebar
+[Languages]
+
+# Each language has its own menu.
+[Languages.pl]
+LanguageCode = "pl"
+LanguageName = "Polski"
+weight = 1
+
+# Sets Social Media icons to appear and link to your account. Value should be your
+# username unless otherwise noted. These are the icons affected by socialAppearAtTop
+# and socialAppearAtBottom.
 [social]
-    github          = "biegal"
-    stackoverflow    = "" # User Number
-    bitbucket       = ""
-    jsfiddle        = ""
-    codepen         = ""
-    foursquare      = ""
-    dribbble        = ""
-    deviantart      = ""
-    behance         = ""
-    flickr          = ""
-    instagram       = ""
-    youtube         = ""
-    vimeo           = ""
-    vine            = ""
-    medium          = ""
-    wordpress       = ""
-    tumblr          = ""
-    xing            = ""
-    linkedin        = "marcinbiegala"
-    linkedin_company = ""
-    slideshare      = ""
-    #stackoverflow   = "1340855"
-    reddit          = ""
-    pinterest       = ""
-    googleplus      = ""
-    facebook        = ""
-    facebook_admin  = ""
-    twitter_domain  = ""
-    twitter         = "biegal"
-    email           = "marcin@biegala.net"
-
+# Coding Communities
+github = "biegal"
+gitlab = ""
+stackoverflow = "1340855" # User Number
+bitbucket = ""
+jsfiddle = ""
+codepen = ""
+# Visual Art Communities
+deviantart = ""
+flickr = ""
+behance = ""
+dribbble = ""
+# Publishing Communities
+wordpress = ""
+medium = ""
+# Professional/Business Oriented Communities
+linkedin = "marcinbiegala"
+linkedin_company = ""
+foursquare = ""
+xing = ""
+slideshare = ""
+# Social Networks
+facebook = ""
+googleplus = ""
+reddit = ""
+quora = ""
+youtube = ""
+vimeo = ""
+whatsapp = "" # WhatsApp Number
+# WeChat and QQ need testing.
+wechat = ""
+qq = "" # User ID Number
+instagram = ""
+tumblr = ""
+twitter = "biegal"
+skype = ""
+snapchat = ""
+pinterest = ""
+telegram = ""
+vine = ""
+googlescholar = ""
+orcid = ""
+researchgate = ""
+keybase = "biegal"
+mastodon = ""
+# Email
+email = "marcin@biegala.net"

@@ -1,0 +1,9 @@
+.post>footer .stats li {
+    max-width: 100%;
+}
+
+.image.right {
+    float: right;
+    padding: 0 0 1em 1.5em;
+    top: 0.25em;
+}
