@@ -17,6 +17,20 @@ title = "Marcin Biegała o kodowaniu"
 [markup.goldmark.renderer]
 unsafe = true
 
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
+
 [outputs]
 home = ["html", "json", "rss"]
 [params]
@@ -34,7 +48,7 @@ cssFiles = ["default"]
 jsFiles = ["default"]
 
 # Sets options for highlight.js
-highlightjs = true
+highlightjs = false
 highlightjsLang = ["html", "css", "js", "toml"]
 highlightjsTheme = "github"
 
@@ -69,11 +83,11 @@ author = "Marcin Biegała"
 # directory favicon.ico, utlize this funtion. It is recommened to use
 # https://realfavicongenerator.net to generate your icons as that is the basis
 # for the theme's naming.
-favicon = false 
-faviconVersion = "1" 
+favicon = false
+faviconVersion = "1"
 iOSColor = "#ffffff" # Copy from the https://realfavicongenerator.net
 msColor = "#ffffff" # Copy from the https://realfavicongenerator.net
-svg = true 
+svg = true
 
 [params.header]
 # This will appear on the top left of the navigation bar
@@ -129,15 +143,15 @@ socialFooter = true
 # If using GitHub, go to https://github.com/apps/staticman-net
 # If using GitLab, just add the GitLab bot, NO need to hit `/connect/v3/...`
 api = "" # without trailing slash, defaults to "staticman3.herokuapp.com"
-branch = "" 
-enabled = false 
+branch = ""
+enabled = false
 gitProvider = "github" # either "github" or "gitlab"
-repo = "" 
-username = "" 
+repo = ""
+username = ""
 
 [params.staticman.recaptcha]
 # Both keys must be present to enable recaptcha
-encryptedKey = "" 
+encryptedKey = ""
 siteKey = "" # Site Key
 
 [menu]
@@ -181,11 +195,11 @@ weight = 1
 # and socialAppearAtBottom.
 [social]
 # Coding Communities
-bitbucket = "" 
-codepen = "" 
-github = "biegal" 
-gitlab = "" 
-jsfiddle = "" 
+bitbucket = ""
+codepen = ""
+github = "biegal"
+gitlab = ""
+jsfiddle = ""
 stackoverflow = "1340855" # User Number
 # Visual Art Communities
 behance = ""
@@ -202,28 +216,28 @@ linkedin_company = "codeclusive"
 slideshare = ""
 xing = ""
 # Social Networks
-facebook = "" 
-googleplus = "" 
-quora = "" 
-reddit = "" 
-vimeo = "" 
+facebook = ""
+googleplus = ""
+quora = ""
+reddit = ""
+vimeo = ""
 whatsapp = "" # WhatsApp Number
-youtube = "" 
+youtube = ""
 # WeChat and QQ need testing.
-googlescholar = "" 
-instagram = "" 
-keybase = "biegal" 
-mastodon = "" 
-orcid = "" 
-pinterest = "" 
+googlescholar = ""
+instagram = ""
+keybase = "biegal"
+mastodon = ""
+orcid = ""
+pinterest = ""
 qq = "" # User ID Number
-researchgate = "" 
-skype = "" 
-snapchat = "" 
-telegram = "" 
-tumblr = "" 
-twitter = "biegal" 
-vine = "" 
-wechat = "" 
+researchgate = ""
+skype = ""
+snapchat = ""
+telegram = ""
+tumblr = ""
+twitter = "biegal"
+vine = ""
+wechat = ""
 # Email
 email = "marcin@biegala.net"
