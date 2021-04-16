@@ -19,16 +19,16 @@ tags:
 
 ---
 <div class="bean-alert info">
-  Jest to drugi z małej serii postów traktujących o wizualizacji drzewa obiektów w WPF.<br /> Poprzedni znajdziesz tu:<br /> <a title="Wizualizacja drzewa obiektów (Visual Tree)" href="https://blog.biegala.net/2014/02/08/xamlspy/">WPF Visualizer &#8211; Wizualizacja drzewa obiektów (Visual Tree)</a><br /> W kolejce czeka jeszcze XAMLSpy<br />
+  Jest to drugi z małej serii postów traktujących o wizualizacji drzewa obiektów w WPF.<br /> Poprzedni znajdziesz tu:<br /> <a title="Wizualizacja drzewa obiektów (Visual Tree)" href="https://miedzy-nawiasami.pl/2014/02/08/xamlspy/">WPF Visualizer &#8211; Wizualizacja drzewa obiektów (Visual Tree)</a><br /> W kolejce czeka jeszcze XAMLSpy<br />
 </div>
 
-W [poprzednim poście][1] opowiedzieliśmy sobie nieco o funkcjonalności samego Visual Studio w kwestii wizualizacji drzewa obiektów WPF. Myślę, że nie pozostawiłem też cienia wątpliwości jak mało przydatna jest to funkcja.  
+W [poprzednim poście][1] opowiedzieliśmy sobie nieco o funkcjonalności samego Visual Studio w kwestii wizualizacji drzewa obiektów WPF. Myślę, że nie pozostawiłem też cienia wątpliwości jak mało przydatna jest to funkcja.
 Dziś coś dużo bardziej użytecznego.
 
 Panie i Panowie, oto Snoop
 
 <p style="text-align: center;">
-  <a href="https://blog.biegala.net/wp-content/uploads/2014/03/2014-03-02-13_02_05-Dodaj-nowy-wpis-‹-Marcin-Biegała-—-WordPress.png" rel="lightbox[100]"><img class="size-full wp-image-103 aligncenter" src="https://blog.biegala.net/wp-content/uploads/2014/03/2014-03-02-13_02_05-Dodaj-nowy-wpis-‹-Marcin-Biegała-—-WordPress.png" alt="Snoop" width="590" height="27" /></a>
+  <a href="https://miedzy-nawiasami.pl/wp-content/uploads/2014/03/2014-03-02-13_02_05-Dodaj-nowy-wpis-‹-Marcin-Biegała-—-WordPress.png" rel="lightbox[100]"><img class="size-full wp-image-103 aligncenter" src="https://miedzy-nawiasami.pl/wp-content/uploads/2014/03/2014-03-02-13_02_05-Dodaj-nowy-wpis-‹-Marcin-Biegała-—-WordPress.png" alt="Snoop" width="590" height="27" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -40,7 +40,7 @@ Panie i Panowie, oto Snoop
 </p>
 
 <p style="text-align: left;">
-  Na potrzeby tego posta przygotowałem bardzo proste okienko, zawierające trzy pola tekstowe i przycisk:<br /> <a href="http://blog.biegala.net/wp-content/uploads/2014/03/2014-03-02-13_21_25-MainWindow.png" rel="lightbox[100]"><img class="alignnone size-full wp-image-106" src="https://blog.biegala.net/wp-content/uploads/2014/03/2014-03-02-13_21_25-MainWindow.png" alt="Snoop - SampleApp" width="416" height="186" srcset="https://blog.biegala.net/wp-content/uploads/2014/03/2014-03-02-13_21_25-MainWindow-300x134.png 300w, https://blog.biegala.net/wp-content/uploads/2014/03/2014-03-02-13_21_25-MainWindow.png 416w" sizes="(max-width: 416px) 100vw, 416px" /></a>
+  Na potrzeby tego posta przygotowałem bardzo proste okienko, zawierające trzy pola tekstowe i przycisk:<br /> <a href="https://miedzy-nawiasami.pl/wp-content/uploads/2014/03/2014-03-02-13_21_25-MainWindow.png" rel="lightbox[100]"><img class="alignnone size-full wp-image-106" src="https://miedzy-nawiasami.pl/wp-content/uploads/2014/03/2014-03-02-13_21_25-MainWindow.png" alt="Snoop - SampleApp" width="416" height="186" srcset="https://miedzy-nawiasami.pl/wp-content/uploads/2014/03/2014-03-02-13_21_25-MainWindow-300x134.png 300w, https://miedzy-nawiasami.pl/wp-content/uploads/2014/03/2014-03-02-13_21_25-MainWindow.png 416w" sizes="(max-width: 416px) 100vw, 416px" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -52,7 +52,7 @@ Panie i Panowie, oto Snoop
 </p>
 
 <p style="text-align: left;">
-  Co my tu mamy:<img class=" wp-image-107 alignright" src="https://blog.biegala.net/wp-content/uploads/2014/03/2014-03-02-13_25_02-MainWindow-Snoop.png" alt="Snoop - MainWindow" width="538" height="436" srcset="https://blog.biegala.net/wp-content/uploads/2014/03/2014-03-02-13_25_02-MainWindow-Snoop-300x243.png 300w, https://blog.biegala.net/wp-content/uploads/2014/03/2014-03-02-13_25_02-MainWindow-Snoop.png 747w" sizes="(max-width: 538px) 100vw, 538px" /><br /> &#8211; z lewej pełne drzewo obiektów widoku (z wyszukiwarką i podglądem po najechaniu kursorem myszy, możemy też wcisnąć Ctrl+Shift na klawiaturze i najechać na interesujący nas obiekt w oknie aplikacji)
+  Co my tu mamy:<img class=" wp-image-107 alignright" src="https://miedzy-nawiasami.pl/wp-content/uploads/2014/03/2014-03-02-13_25_02-MainWindow-Snoop.png" alt="Snoop - MainWindow" width="538" height="436" srcset="https://miedzy-nawiasami.pl/wp-content/uploads/2014/03/2014-03-02-13_25_02-MainWindow-Snoop-300x243.png 300w, https://miedzy-nawiasami.pl/wp-content/uploads/2014/03/2014-03-02-13_25_02-MainWindow-Snoop.png 747w" sizes="(max-width: 538px) 100vw, 538px" /><br /> &#8211; z lewej pełne drzewo obiektów widoku (z wyszukiwarką i podglądem po najechaniu kursorem myszy, możemy też wcisnąć Ctrl+Shift na klawiaturze i najechać na interesujący nas obiekt w oknie aplikacji)
 </p>
 
 <p style="text-align: left;">
@@ -80,7 +80,7 @@ Panie i Panowie, oto Snoop
 </p>
 
 <p style="text-align: left;">
-  Na koniec zostawiłem jeszcze jedną perełkę.<img class=" wp-image-110 alignright" src="https://blog.biegala.net/wp-content/uploads/2014/03/2014-03-02-13_45_53-MainWindow-Snoop.png" alt="Snoop - EventView" width="386" height="364" />Nie wiem czy zwróciliście uwagę, w stopce okna Snoop pokazuje aktualne elementy które otrzymały focus.<br /> Małe, a jak cieszy!
+  Na koniec zostawiłem jeszcze jedną perełkę.<img class=" wp-image-110 alignright" src="https://miedzy-nawiasami.pl/wp-content/uploads/2014/03/2014-03-02-13_45_53-MainWindow-Snoop.png" alt="Snoop - EventView" width="386" height="364" />Nie wiem czy zwróciliście uwagę, w stopce okna Snoop pokazuje aktualne elementy które otrzymały focus.<br /> Małe, a jak cieszy!
 </p>
 
 <p style="text-align: left;">
@@ -97,4 +97,4 @@ Panie i Panowie, oto Snoop
 
 &nbsp;
 
- [1]: http://blog.biegala.net/2014/02/08/xamlspy/ "Wizualizacja drzewa obiektów (Visual Tree)"
+ [1]: https://miedzy-nawiasami.pl/2014/02/08/xamlspy/ "Wizualizacja drzewa obiektów (Visual Tree)"

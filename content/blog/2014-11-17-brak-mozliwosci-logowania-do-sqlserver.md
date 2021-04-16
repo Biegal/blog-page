@@ -16,15 +16,15 @@ tags:
   - SQL
 
 ---
-Szczerze, myślałem że taka sytuacja jest niemożliwa. Ale, że sam siebie wpakuje w takie bagno, to już mogłem się spodziewać.<img class="alignright wp-image-245" src="https://blog.biegala.net/wp-content/uploads/2014/11/gold-2480_640.jpg" alt="Brak możliwości logowania do SQLServer" width="253" height="189" srcset="https://blog.biegala.net/wp-content/uploads/2014/11/gold-2480_640-300x224.jpg 300w, https://blog.biegala.net/wp-content/uploads/2014/11/gold-2480_640.jpg 640w" sizes="(max-width: 253px) 100vw, 253px" />
+Szczerze, myślałem że taka sytuacja jest niemożliwa. Ale, że sam siebie wpakuje w takie bagno, to już mogłem się spodziewać.<img class="alignright wp-image-245" src="https://miedzy-nawiasami.pl/wp-content/uploads/2014/11/gold-2480_640.jpg" alt="Brak możliwości logowania do SQLServer" width="253" height="189" srcset="https://miedzy-nawiasami.pl/wp-content/uploads/2014/11/gold-2480_640-300x224.jpg 300w, https://miedzy-nawiasami.pl/wp-content/uploads/2014/11/gold-2480_640.jpg 640w" sizes="(max-width: 253px) 100vw, 253px" />
 
-Otóż, nie wiem czy wszyscy zdają sobie sprawę, ale można mieć instancję SQL Server (w tym przypadku Express), do której nie można się zalogować :)  
-Jak można już wywnioskować nie jestem bazodanowym magiem, ba nawet czeladnikiem nie jestem. Próbując wyłączyć dostęp do bazy przez Windows Integrated Login, skończyłem z serwerem do którego zalogować się nie sposób (użytkownikom windowsowym odebrałem prawo, a jak się okazało sa go nie miał&#8230;).  
+Otóż, nie wiem czy wszyscy zdają sobie sprawę, ale można mieć instancję SQL Server (w tym przypadku Express), do której nie można się zalogować :)
+Jak można już wywnioskować nie jestem bazodanowym magiem, ba nawet czeladnikiem nie jestem. Próbując wyłączyć dostęp do bazy przez Windows Integrated Login, skończyłem z serwerem do którego zalogować się nie sposób (użytkownikom windowsowym odebrałem prawo, a jak się okazało sa go nie miał&#8230;).
 No to klops myślę. Niby to nie była baza produkcyjna, ale i tak danych szkoda, czasu szkoda. No i tak reinstalować od razu ? Tak bez walki ?
 
 Okazało się, że jest rozwiązanie takiego impasu. I to stosunkowo proste.<!--more-->
 
-Otóż w 99,9% przypadków, nasz SQLServer będzie działał jako serwis Windows. Ale zapominamy, że jest tam też zwykły plik wykonywalny .exe. Ba, nawet potrafi przyjmować parametry!  
+Otóż w 99,9% przypadków, nasz SQLServer będzie działał jako serwis Windows. Ale zapominamy, że jest tam też zwykły plik wykonywalny .exe. Ba, nawet potrafi przyjmować parametry!
 A to już brzmi jak początek czegoś dobrego.
 
 Zatrzymujemy zatem nasz serwis SQLServer (np. poprzez panel services.msc).

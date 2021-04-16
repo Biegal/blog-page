@@ -29,29 +29,29 @@ Poniżej &#8216;zajawka&#8217; materiału i odnośnik do konkretnego numeru SDJ.
   <h5>
     IL Weaving w służbie programiście
   </h5>
-  
+
   <p>
     Praca programisty to nie tylko ciekawe problemy, genialne algorytmy i zadowolenie użytkowników. To także tysiące linii kodu, które tworzymy każdego dnia, a które nierzadko nie stanowią funkcjonalności, a są częścią nudnego i powtarzalnego kodu infrastruktury naszych systemów i aplikacji.
   </p>
-  
+
   <p>
-    <a href="https://sdjournal.pl/magazine/1863-programowanie-asynchroniczne-nowosc-jezyka-c-5-0">SDJ 06.2014 &#8211; Programowanie asynchroniczne nowość języka C# 5.0</a></div><br /> 
-    
+    <a href="https://sdjournal.pl/magazine/1863-programowanie-asynchroniczne-nowosc-jezyka-c-5-0">SDJ 06.2014 &#8211; Programowanie asynchroniczne nowość języka C# 5.0</a></div><br />
+
     <div class="bean-one-half bean-column-last">
-      </p> 
-      
+      </p>
+
       <div id="attachment_140" style="width: 196px" class="wp-caption alignnone">
-        <img class="wp-image-140 size-full" style="margin-top: 0px;" src="https://blog.biegala.net/wp-content/uploads/2014/06/sdj_screen.png" alt="SDJ 06.2014 Artykuł o IL Weaving w SDJ" width="186" height="268" />
-        
+        <img class="wp-image-140 size-full" style="margin-top: 0px;" src="https://miedzy-nawiasami.pl/wp-content/uploads/2014/06/sdj_screen.png" alt="SDJ 06.2014 Artykuł o IL Weaving w SDJ" width="186" height="268" />
+
         <p class="wp-caption-text">
           SDJ 06.2014 &#8211; Programowanie asynchroniczne nowość języka C# 5.0
         </p>
       </div>
-      
+
       <p>
         </div>
       </p>
-      
+
       <p>
         <!--more-->
       </p>

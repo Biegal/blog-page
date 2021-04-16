@@ -18,7 +18,7 @@ Notka do siebie w przyszłości.
 
 Jeśli po instalacji Node.js npm będzie pluł mało zrozumiałym błędem jak poniżej:
 
-<img class="alignnone size-full wp-image-214" src="https://blog.biegala.net/wp-content/uploads/2014/08/npm_error_enoent.png" alt="npm_error_enoent" width="498" height="48" />
+<img class="alignnone size-full wp-image-214" src="https://miedzy-nawiasami.pl/wp-content/uploads/2014/08/npm_error_enoent.png" alt="npm_error_enoent" width="498" height="48" />
 
 Zanim ruszysz googlać, weź trzy głębokie oddechy, pomyśl chwilę i sprawdź czy ta ścieżka w ogóle istnieje!
 

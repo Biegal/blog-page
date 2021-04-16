@@ -1,10 +1,10 @@
 DefaultContentLanguage = "pl"
-baseurl = "https://blog.biegala.net/"
+baseurl = "https://miedzy-nawiasami.pl/"
 canonifyURLs = true
 description = "Blog o kodowaniu, architekturze IT i społeczności"
 disableLanguages = []
 disqusShortname = "blogbiegalanet"
-enableRobotsTXT = true
+enableRobotsTXT = false
 googleAnalytics = "UA-11867728-3"
 languageCode = "pl-pl"
 metaDataFormat = "yaml"
